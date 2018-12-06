@@ -4,7 +4,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <ctype.h>
-
+//conio.h header file wont work properly so the clrscr() also not working
 struct node
 {
     char data [ 20 ] ;
